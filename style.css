@@ -105,7 +105,7 @@ h3 {
  }
   @media (max-width: 950px) {
     body {
-        background-image: url("8.jpg");
+        background-image: url("img/8.jpg");
     }
 }
 @media (max-width: 850px) {
